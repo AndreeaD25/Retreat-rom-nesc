@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Cabana Moțului",
+    "imageUrl": "https://www.picomartravel.ro/cache/d/2/6/7/1/d267190b6b9f64c921dd8b8ebddde41e644475fe.jpeg",
+    "price": "250-300",
+    "details": "Departe de aglomeraţia orașului, în mijlocul naturii, pensiunea Casa Moțului din Arieșeni - Munții Apuseni vă oferă o oaza de liniște creată special pentru familie. Astfel, dorim să promovăm ideea clădită de moții primitori, în care familia și tradiția sunt puse la loc de cinste. Așadar, am creat un locșor plin de bună - dispoziție, care vă va face să uitați de grijile vieții de zi cu zi. Prin atmosfera creată de noi și împrejurimile spectaculoase, timpul nu va mai avea însemnătate.",
+    "category": "category 1",
+    "id": "1"
+  },
+  {
+    "name": "Pensiunea La Mesteceni",
+    "imageUrl": "https://i.szalas.hu/hotels/1407379/original/36448194.jpg",
+    "price": "250-300",
+    "details": "La Mesteceni este o oază de liniște și relaxare, situată în inima naturii, unde fiecare vizitator are oportunitatea de a experimenta stări de bine și deplină conectare cu mediul înconjurător.",
+    "category": "category 2",
+    "id": "2"
+  },
+  {
+    "name": "Hotel RANDY",
+    "imageUrl": "https://randyhotel.ro/wp-content/uploads/2023/07/Hotel-Randy-Constanta-bld-Mamaia-centru-0041111.jpg",
+    "price": "700-1000",
+    "details": "Situat pe bulevardul Mamaia, principala arteră care face legătura între centrul orașului Constanța și stațiunea Mamaia, este locul perfect de sejur atât pentru oamenii de afaceri cât și pentru turiștii care vor să descopere Mamaia si Constanța. Poziția sa excelentă, la cateva minute de mers pe jos până la plajă sau cateva minute cu masina pana la principalele atractii (statiunea Mamaia, orasul vechi, portul turistic, Cazinoul, etc) aduce hotelul Randy în topul preferințelor turiștilor care vor să se bucure de relaxare, plajă și mare.",
+    "category": "category 3",
+    "id": "3"
+  },
+  {
+    "name": "Hotel 2D RESORT & SPA",
+    "imageUrl": "https://www.balneomedica.ro/imagini/hotel-2d-resort-and-spa-hotel-2d-neptun-piscina-exterioara-82033.jpg",
+    "price": "600-750",
+    "details": "Este situat in centrul celei mai frumoase, linistite si curate statiuni de pe coasta Marii Negre, statiunea Neptun.Pozitionat pe malul lacului Neptun, este inconjurat de un parc natural cu foarte mult spatiu verde si promenade ce duc spre malul lacului si spre faleza sau plaja.",
+    "category": "category 4",
+    "id": "4"
+  },
+  {
+    "name": "1001 Village",
+    "imageUrl": "https://www.1001village.ro/assets/img/galerie/cazare%20houses%20sunset.jpg",
+    "price": "550-650",
+    "details": "1001 Village este destinația potrivită pentru iubitorii de natură, de răsărituri idilice, de nopți sub lumina milioanelor de stele.",
+    "category": "category 5",
+    "id": "5"
+  },
+  {
+    "name": "Cabana Plaiul Foii",
+    "imageUrl": "https://img.directbooking.ro/getimage.ashx?w=880&h=660&file=74d626c0-6872-4e3d-a006-8680ae38f7ba.jpg",
+    "price": "400-600",
+    "details": "Apropie-te din nou de natură și uită de stresul citadin. Încojurat de pădure, vegheat de Masivul Piatra Craiului, îți promitem o experiență completă: sentimentul unui lodge din Alpi, dar înconjurat de tradiționalism românesc.",
+    "category": "category 6",
+    "id": "6"
+  },
+  {
+    "name": "Pensiunea Casa Bunicii",
+    "imageUrl": "https://www.descoperimromania.ro/wp-content/uploads/2015/09/Cazare-la-Casa-Bunicii-din-Costesti-Hunedoara-Hunedoara-Transilvania-9.jpg",
+    "price": "400-500",
+    "details": "Știți acel sentiment unic în care vă treziți pe la două-trei dimineața și vă gândiți ce viață monotonă traiți? Și vă întrebați atât de intens ce ați putea face, ce ați putea schimba sau experimenta încât să vă simțiți în floarea vârstei mereu, ca vârsta pe care o aveți să fie doar un număr iar distracția și viața trăită la maxim să fie la ordinea zilei?!",
+    "category": "category 7",
+    "id": "7"
+  },
+  {
+    "name": "Cabana Postăvaru",
+    "imageUrl": "https://zilesinopti.ro/wp-content/uploads/2021/08/4cf8b58e6ba2f9b0081bf30dd9e10c54.jpg",
+    "price": "550-650",
+    "details": "Veniți și stați pe munte cu noi la Cabana Postăvaru la 1604 metri (5262 ft) la o priveliste uimitoare a muntilor din preajma pentru un sejur cu adevărat memorabil. Dacă sunteți în căutarea unui hotel in Poiana Brasov si doriti o experiență cu adevărat rustica pe munte, atunci luati-va cazarea in Poiana cu noi.",
+    "category": "category 8",
+    "id": "8"
+  },
+  {
+    "name": "Pensiunea Casa Feleacu",
+    "imageUrl": "https://casadinfeleacu.ro/wp-content/uploads/2023/08/CasaDinFeleac_165.jpg",
+    "price": "400-500",
+    "details": "Profitați de oferta noastra pentru cazare in satul Feleacu, la 4 km  de muncipiul, resedinta de judet, Cluj-Napoca,  locatia cu incarcatura istorica fiind  întemeiata la anul 1366, din ordinul regelui Ludovic I, intrucat vechea cetatea Clujului avea nevoie de aparatori ai drumului care o lega de Turda.",
+    "category": "category 9",
+    "id": "9"
+  },
+  {
+    "name": "Cabana Vânătorilor",
+    "imageUrl": "https://alfitravel.ro/media/cache/package_main/images/hotel/41592/t18-cabana-vanatorilor-1364.jpg",
+    "price": "350-450",
+    "details": "Toti suntem unici, avand nevoi diferite. Noi suntem pregatiti sa facem fata oricarei situatii, oferind servicii diverse: mic dejun, room service, bar, restaurant cu terasa, parcare, sala de conferinte, servicii de secretariat, internet, informatii turistice, jacuzzi, sauna.",
+    "category": "category 10",
+    "id": "10"
+  },
+  {
+    "name": "Pensiunea La Răscruce",
+    "imageUrl": "https://i.szalas.hu/hotels/1407423/original/36449149.jpg",
+    "price": "300-500",
+    "details": "Pensiunea La Rascruce este amplasata intr-un cadru natural de vis, in apropierea Cascadei Urlatoarea din muntii Ciucas.",
+    "category": "category 11",
+    "id": "11"
+  },
+  {
+    "name": "Cabana Daria",
+    "imageUrl": "imageUrl 12",
+    "price": "550-650",
+    "details": "Cabana Daria este situată pe valea Buciniş în Arieşeni, în inima Munţilor Apuseni, la doar 10km de pârtia Vârtop.Cabana Daria este formată din 3 corpuri de clădiri, construită şi mobilată în stil rustic la standarde înalte cu materiale de cea mai buna calitate.",
+    "category": "category 12",
+    "id": "12"
+  },
+  {
+    "name": "Pensiunea Casa Zânelor",
+    "imageUrl": "https://www.casa-zanelor.ro/assets/images/home-img-1.jpg",
+    "price": "300-450",
+    "details": "Eleganța, rafinamentul, intimitatea, liniștea și aerul curat caracterizează pensiunea Casa Zânelor care vă așteaptă să-i fiți oaspeți. Ambientul și dotările pot satisface și cele mai exigente gusturi.Casa Zânelor este locul în care tu și familia ta, grupul tău de prieteni, colaboratori sau parteneri de afaceri puteți lucra, vă puteți odihni, distra sau pur și simplu - încarca bateriile.",
+    "category": "category 13",
+    "id": "13"
+  },
+  {
+    "name": "Cabana Bâlea Lac",
+    "imageUrl": "https://fastly.4sqi.net/img/general/600x600/1413907_xgrGNGc5rBOJohdWTyb4lcnuGa4G5-c_vj9y3Bfs10Q.jpg",
+    "price": "500-660",
+    "details": "În mijlocul unuia dintre cele mai frumoase regiuni montane din Carpați, Cabana Bâlea Lac este situată lângă un lac glaciar. Fiind direct accesibilă din legendarul drum Transfăgărășan, la o altitudine de 2034 de metri deasupra nivelului mării, cabana oferă cazare conform standardelor internaționale.",
+    "category": "category 14",
+    "id": "14"
+  },
+  {
+    "name": "Pensiunea Valea Argesului",
+    "imageUrl": "https://www.roturistic.ro/img/user/Albestii_de_Arges_Valea_Argesului/Albestii_de_Arges_Valea_Argesului_1628439806.46969199.jpg",
+    "price": "400-650",
+    "details": "Pensiunea Valea Argesului este situata in Albesti Ungureni, intr-o zona linistita si plina de verdeata, oferind facilitati ideale si camere confortabile pentru un sejur de neuitat alaturi de familie sau prieteni.",
+    "category": "category 15",
+    "id": "15"
+  },
+  {
+    "name": "Cabana Omu",
+    "imageUrl": "https://aventurainromania.ro/wp-content/uploads/2017/12/Varful_Omu.jpg",
+    "price": "300-700",
+    "details": "Situată pe vârful Omu, cel mai înalt vârf al Munților Bucegi, Cabana Omu este cabana plasată la cea mai mare înălțime în Carpați (2505 m). Alături de cabană, se află Stația meteorologică Vârful Omu, aceasta fiind cel mai înalt punct locuit permanent din România. Cabana Omu este prima cabană de piatră construită în munții Bucegi (3 septembrie 1888).",
+    "category": "category 16",
+    "id": "16"
+  },
+  {
+    "name": "Pensiunea Hanul Vatra",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/31/9e/4a/hanul-vatra.jpg",
+    "price": "300-580",
+    "details": "Corpul vechi al Hanului Vatra - cu arcadele stil neoromanesc rural – a fost construit intre cele doua razboaie mondiale de catre o familie de boieri din sat.",
+    "category": "category 17",
+    "id": "17"
+  },
+  {
+    "name": "Cabana Gura Diham",
+    "imageUrl": "https://www.roturistic.ro/img/user/Busteni_Gura_Diham/Busteni_Gura_Diham_0357963001307086014.jpg",
+    "price": "300-600",
+    "details": "Hotel - Cabana Gura Diham Busteni a fost construita in anul 1910, initial aici functionand un han. La acea vreme cabana era amplasata la o distanta foarte mica de granita cu Austro-Ungaria. Dupa razboi a devenit cabana turistica. In anul 1987 au fost construite 2 corpuri noi, renovate integral in 2006.",
+    "category": "category 18",
+    "id": "18"
+  },
+  {
+    "name": "Hotel Malibu",
+    "imageUrl": "https://img.directbooking.ro/getimage.ashx?w=880&h=660&file=2f095a89-d5d9-4a90-aa8c-4ac48418aada.jpg",
+    "price": "500-1200",
+    "details": "Amplasat la intrarea sudica a statiunii Mamaia, Hotelul Malibu ofera datorita pozitionarii ideale, acces la toate obiectivele importante ale zonei.Contribuim la asigurarea unor vacante relaxante datorita abordarii inovatoare asupra produselor, dotarilor si serviciilor de calitate!",
+    "category": "category 19",
+    "id": "19"
+  },
+  {
+    "name": "AXO Boutique HOTEL by BUILDING STEFAN",
+    "imageUrl": "https://www.ekeys.ro/wp-content/uploads/2023/10/axo-boutique-hotel-mamaia-nord-constanta-navodari-cazare-mis-7-scaled.jpg",
+    "price": "300-1000",
+    "details": "AXO Boutique HOTEL by BUILDING STEFAN se află în Năvodari, la 2,2 km de Marina Regia. Proprietatea se găsește la 6 km de Lacul Siutghiol, la 12 km de City Park Mall.Cuplurile apreciază în mod deosebit această locație.",
+    "category": "category 20",
+    "id": "20"
+  }
+]

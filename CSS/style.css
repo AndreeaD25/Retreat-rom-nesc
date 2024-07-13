@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&family=Playwrite+DK+Uloopet:wght@100..400&display=swap");
+:root {
+  --primary-color: #d6efd8;
+  --dark-color: black;
+  --secondary-color: #508d4e;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--primary-color);
+  font-family: "Playwrite DK Uloopet", cursive;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.gap-10 {
+  gap: 10px;
+}
+
+.gap-20 {
+  gap: 10px;
+}
+
+.p-5 {
+  padding: 5px;
+}
+
+.bg-dark {
+  background-color: var(--secondary-color);
+}
+
+.gap-50 {
+  gap: 50px;
+}
+
+.p-50 {
+  padding: 50px;
+}
+
+.wrap {
+  gap: 50px;
+  flex-wrap: wrap;
+}
+
+.navbar a,
+.navbar h3 {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-size: 20px;
+  color: #d6efd8;
+  font-style: italic;
+}
+
+.navbar h3 i {
+  padding-top: 10px;
+  font-size: 30px;
+}
+
+.logo {
+  font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+
+.product-card {
+  background-color: #d6efd8;
+  width: 200px;
+  text-align: center;
+  padding: 10px 5px;
+  border: 2px solid var(--secondary-color);
+  border-radius: 10px;
+}
