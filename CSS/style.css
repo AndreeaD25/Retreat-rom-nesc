@@ -65,7 +65,7 @@ body {
 }
 
 .wrap {
-  gap: 50px;
+  /* gap: 50px; */
   flex-wrap: wrap;
 }
 
@@ -80,7 +80,7 @@ body {
 
 .navbar h3 i {
   padding-top: 10px;
-  font-size: 30px;
+  font-size: 28x;
 }
 
 .logo {
@@ -97,4 +97,12 @@ body {
   padding: 10px 5px;
   border: 2px solid var(--secondary-color);
   border-radius: 10px;
+}
+
+.fa-solid.fa-tree.fa-bounce {
+  color: #1a5319;
+}
+
+.fa-solid.fa-umbrella-beach.fa-bounce {
+  color: #f3feb8;
 }

@@ -1,0 +1,82 @@
+:root {
+  --primary-color: #d6efd8;
+  --dark-color: black;
+  --secondary-color: #508d4e;
+}
+
+.main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 50px;
+}
+
+form > div {
+  display: flex;
+  flex-direction: column;
+}
+
+form > div > input {
+  padding: 5px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+
+form > div > label {
+  margin-bottom: 5px;
+}
+
+form > button {
+  padding: 10px;
+  font-size: 18px;
+  background-color: var(--secondary-color);
+  border: none;
+  border-radius: 10px;
+  color: white;
+}
+
+button {
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+table,
+th,
+td {
+  border: 1px solid gray;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+textarea {
+  width: 97%; /* lățimea poate fi setată în procente sau pixeli */
+  height: 50px; /* înălțimea în pixeli */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  resize: vertical;
+}
+
+.logo {
+  font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}

@@ -6,6 +6,7 @@
     <link rel="shortcut icon" href="images/tree.png" type="image/png" />
 
     <title>Retreat Romanesc</title>
+    <link rel="stylesheet" href="../CSS/admin.css" />
     <link rel="stylesheet" href="../CSS/style.css" />
     <link
       rel="stylesheet"
@@ -19,9 +20,10 @@
     <div class="container">
       <div class="navbar flex justify-around items-center bg-dark p-5">
         <div class="logo">
-          <i class="fa-solid fa-tree fa-bounce"></i>
           <h3>
+            <i class="fa-solid fa-tree fa-bounce"></i>
             <a href="../index.html">Retreat românesc</a>
+            <i class="fa-solid fa-umbrella-beach fa-bounce"></i>
           </h3>
         </div>
         <div class="nav-links flex gap-10">
@@ -29,8 +31,47 @@
           <a href="cart.html">Cart</a>
         </div>
       </div>
-      <div class="main"></div>
+      <div class="main">
+        <h1>Admin Page</h1>
+        <form id="product-form">
+          <div>
+            <label for="name">Product name</label>
+            <input type="text" id="name" />
+          </div>
+          <div>
+            <label for="price">Price</label>
+            <input type="number" id="price" />
+          </div>
+          <div>
+            <label for="image-url">Image Url</label>
+            <input type="text" id="image-url" />
+          </div>
+          <div>
+            <label for="details">Details</label>
+            <textarea name="details" id="details"></textarea>
+            <!-- <input type="text" id="details" /> -->
+          </div>
+          <div>
+            <label for="category">Category</label>
+            <input type="text" id="category" />
+          </div>
+          <button id="save-btn">Save products</button>
+        </form>
+        <table id="products-table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Price</th>
+              <th>Image</th>
+              <th>Edit</th>
+              <th>Delete</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
       <div class="footer"></div>
+      <script type="module" src="../JS/admin.js"></script>
     </div>
   </body>
 </html>
