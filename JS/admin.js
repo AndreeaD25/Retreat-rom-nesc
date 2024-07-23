@@ -47,6 +47,7 @@ const nameInput = document.getElementById("name");
 const priceInput = document.getElementById("price");
 const imageUrlInput = document.getElementById("image-url");
 const detailsInput = document.getElementById("details");
+const descriptionInput = document.getElementById("description");
 const categoryInput = document.getElementById("category");
 const saveProductButton = document.getElementById("save-btn");
 let editMode = false;
@@ -63,6 +64,7 @@ function saveProduct(event) {
     price: Number(priceInput.value),
     imageUrl: imageUrlInput.value,
     details: detailsInput.value,
+    description: descriptionInput.value,
     category: categoryInput.value,
   };
 
@@ -101,6 +103,7 @@ function editProduct(id) {
     priceInput.value = product.price;
     imageUrlInput.value = product.imageUrl;
     detailsInput.value = product.details;
+    descriptionInput.value = product.description;
     categoryInput.value = product.category;
 
     currentEditableProductId = product.id;

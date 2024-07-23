@@ -5,7 +5,8 @@
     "price": 600,
     "details": "Este situat in centrul celei mai frumoase, linistite si curate statiuni de pe coasta Marii Negre, statiunea Neptun.Pozitionat pe malul lacului Neptun, este inconjurat de un parc natural cu foarte mult spatiu verde si promenade ce duc spre malul lacului si spre faleza sau plaja.",
     "category": "Litoral",
-    "id": "4"
+    "id": "4",
+    "description": "Hotelul 2D resort & spa dispune de 321 camerele de 3 si 4 stele, un restaurant ce ofera o multitudine de preparate din bucataria traditionala, regionala dar si internationala, piscina exterioara, piscina interioara de dimensiuni semi-olimpice cu apa incalzita si o piscina pentru copii , ambele piscine fiind deservite de un bar in care se pot servi bauturi si cocktail-uri fine, centru de relaxare SPA-ntastic unde oaspetii se pot bucura de binefacerile terapiilor spa, masaje, sauna salina si finlandeza, jacuzzi, sala de fitness si nu in ultimul rand centru de conferinte si afaceri care se adreseaza exclusiv turismului de afaceri si conferinte."
   },
   {
     "name": "1001 Village",
@@ -13,7 +14,8 @@
     "price": 550,
     "details": "1001 Village este destinația potrivită pentru iubitorii de natură, de răsărituri idilice, de nopți sub lumina milioanelor de stele.este situată în zona montană a județului Buzău, România, mai precis în localitatea Măgura.",
     "category": "Zona montana",
-    "id": "5"
+    "id": "5",
+    "description": "Toate căsuțele din satul 1001 sunt echipate pentru a acomoda două persoane, unele dintre ele pot avea un fotoliu extensibil pentru a treia persoană. Echiparea căsuțelor: TV, frigider, încălzire prin pardoseală, boiler pentru apa caldă menajeră, espressor pentru capsule Nespresso, aer condiționat, hotă, plită electrică, veselă și tacâmuri, ustensile de grătar, grătar în aer liber, mobilier de terasă, conexiune internet wi-fi de 100 mbps."
   },
   {
     "name": "Cabana Plaiul Foii",
@@ -21,7 +23,8 @@
     "price": 400,
     "details": "Apropie-te din nou de natură și uită de stresul citadin. Încojurat de pădure, vegheat de Masivul Piatra Craiului, îți promitem o experiență completă: sentimentul unui lodge din Alpi, dar înconjurat de tradiționalism românesc. Se află în zona montană a Munților Piatra Craiului, în apropiere de Zărnești, județul Brașov, România. Aceasta este o destinație populară pentru iubitorii de drumeții și natură, oferind acces facil la traseele montane din Parcul Național Piatra Craiului.",
     "category": "Zona montana",
-    "id": "6"
+    "id": "6",
+    "description": "Cabana Plaiul Foii poate găzdui un număr de 34 de turişti, pe cele 2 etaje destinate oaspeților. Toate cele 15 camere au un design rustic, respectând și cerințele celor mai sofisticați dintre noi.Pentru familii, recomandăm unul dintre cele două apartamente - bucurați-vă de spațiu și intimitate.* 3 din camerele pensiunii au intrare separată, prin spatele pensiunii. Toate camerele au același confort: sunt amenajate rustic și toate au baie proprie.* NU PRIMIM ANIMALE DE COMPANIE"
   },
   {
     "name": "Pensiunea Casa Bunicii",
@@ -29,7 +32,8 @@
     "price": 400,
     "details": "se află în zona montană a Munților Apuseni, în localitatea Albac, județul Alba, România. Aceasta este o destinație ideală pentru turiștii care doresc să exploreze peisajele pitorești și tradițiile autentice ale Munților Apuseni.",
     "category": "Zona montana",
-    "id": "7"
+    "id": "7",
+    "description": "Livingroom: Un spaţiu central de 65 mp care găzduieşte bucătăria de tip open-space, bucătăria este complet utilată şi dotată. Pensiunea dispune de 3 camere duble (2 cu pat matrimonial iar una cu doua paturi de cate o persoana, care, la cerere se pot uni), fiecare fiind dotată cu baie proprie. Pensiunea dispune si de un apartament, format din: cameră dublă (cu pat matrimonial) + living (cu o canapea extensibilă) + baie proprie. De nelipsit din dotările pensiunii este și ciubărul, cu o capacitate de 8 persoane, cu apă calda (38-40 grade C). Loc de joacă pentru copii. Mansarda: Are o suprafață de 200 mp, aceasta reprezentând locul perfect pentru distracție. Aceasta este dotată cu masă de ping-pong, masă de biliard, masă de cso-cso (fotbal de masă) și o masă multi-games pentru copii. De nelipsit sunt și jocurile de masă (șah, remi, jenga, cărți, etc.). Semnalul la telefonia mobilă este slab si doar “pe alocuri”, dar pensiunea dispune de conexiune la internet WI-FI. "
   },
   {
     "name": "Cabana Postăvaru",
