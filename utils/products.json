@@ -3,180 +3,207 @@
     "name": "Hotel 2D RESORT & SPA",
     "imageUrl": "https://www.balneomedica.ro/imagini/hotel-2d-resort-and-spa-hotel-2d-neptun-piscina-exterioara-82033.jpg",
     "price": 600,
-    "details": "Este situat in centrul celei mai frumoase, linistite si curate statiuni de pe coasta Marii Negre, statiunea Neptun.Pozitionat pe malul lacului Neptun, este inconjurat de un parc natural cu foarte mult spatiu verde si promenade ce duc spre malul lacului si spre faleza sau plaja.",
+    "details": "Hotelul 2D resort & spa dispune de 321 camerele de 3 si 4 stele, un restaurant ce ofera o multitudine de preparate din bucataria traditionala, regionala dar si internationala, piscina exterioara, piscina interioara de dimensiuni semi-olimpice cu apa incalzita si o piscina pentru copii , ambele piscine fiind deservite de un bar in care se pot servi bauturi si cocktail-uri fine, centru de relaxare SPA-ntastic unde oaspetii se pot bucura de binefacerile terapiilor spa, masaje, sauna salina si finlandeza, jacuzzi, sala de fitness si nu in ultimul rand centru de conferinte si afaceri care se adreseaza exclusiv turismului de afaceri si conferinte.",
     "category": "Litoral",
     "id": "4",
-    "description": "Hotelul 2D resort & spa dispune de 321 camerele de 3 si 4 stele, un restaurant ce ofera o multitudine de preparate din bucataria traditionala, regionala dar si internationala, piscina exterioara, piscina interioara de dimensiuni semi-olimpice cu apa incalzita si o piscina pentru copii , ambele piscine fiind deservite de un bar in care se pot servi bauturi si cocktail-uri fine, centru de relaxare SPA-ntastic unde oaspetii se pot bucura de binefacerile terapiilor spa, masaje, sauna salina si finlandeza, jacuzzi, sala de fitness si nu in ultimul rand centru de conferinte si afaceri care se adreseaza exclusiv turismului de afaceri si conferinte."
+    "description": "Este situat in centrul celei mai frumoase, linistite si curate statiuni de pe coasta Marii Negre, statiunea Neptun.Pozitionat pe malul lacului Neptun, este inconjurat de un parc natural cu foarte mult spatiu verde si promenade ce duc spre malul lacului si spre faleza sau plaja."
   },
   {
     "name": "1001 Village",
     "imageUrl": "https://www.1001village.ro/assets/img/galerie/cazare%20houses%20sunset.jpg",
     "price": 550,
-    "details": "1001 Village este destinația potrivită pentru iubitorii de natură, de răsărituri idilice, de nopți sub lumina milioanelor de stele.este situată în zona montană a județului Buzău, România, mai precis în localitatea Măgura.",
+    "details": "Toate căsuțele din satul 1001 sunt echipate pentru a acomoda două persoane, unele dintre ele pot avea un fotoliu extensibil pentru a treia persoană. Echiparea căsuțelor: TV, frigider, încălzire prin pardoseală, boiler pentru apa caldă menajeră, espressor pentru capsule Nespresso, aer condiționat, hotă, plită electrică, veselă și tacâmuri, ustensile de grătar, grătar în aer liber, mobilier de terasă, conexiune internet wi-fi de 100 mbps.",
     "category": "Zona montana",
     "id": "5",
-    "description": "Toate căsuțele din satul 1001 sunt echipate pentru a acomoda două persoane, unele dintre ele pot avea un fotoliu extensibil pentru a treia persoană. Echiparea căsuțelor: TV, frigider, încălzire prin pardoseală, boiler pentru apa caldă menajeră, espressor pentru capsule Nespresso, aer condiționat, hotă, plită electrică, veselă și tacâmuri, ustensile de grătar, grătar în aer liber, mobilier de terasă, conexiune internet wi-fi de 100 mbps."
+    "description": "1001 Village este destinația potrivită pentru iubitorii de natură, de răsărituri idilice, de nopți sub lumina milioanelor de stele.este situată în zona montană a județului Buzău, România, mai precis în localitatea Măgura."
   },
   {
     "name": "Cabana Plaiul Foii",
     "imageUrl": "https://img.directbooking.ro/getimage.ashx?w=880&h=660&file=74d626c0-6872-4e3d-a006-8680ae38f7ba.jpg",
     "price": 400,
-    "details": "Apropie-te din nou de natură și uită de stresul citadin. Încojurat de pădure, vegheat de Masivul Piatra Craiului, îți promitem o experiență completă: sentimentul unui lodge din Alpi, dar înconjurat de tradiționalism românesc. Se află în zona montană a Munților Piatra Craiului, în apropiere de Zărnești, județul Brașov, România. Aceasta este o destinație populară pentru iubitorii de drumeții și natură, oferind acces facil la traseele montane din Parcul Național Piatra Craiului.",
+    "details": "Cabana Plaiul Foii poate găzdui un număr de 34 de turişti, pe cele 2 etaje destinate oaspeților. Toate cele 15 camere au un design rustic, respectând și cerințele celor mai sofisticați dintre noi.Pentru familii, recomandăm unul dintre cele două apartamente - bucurați-vă de spațiu și intimitate.* 3 din camerele pensiunii au intrare separată, prin spatele pensiunii. Toate camerele au același confort: sunt amenajate rustic și toate au baie proprie.* NU PRIMIM ANIMALE DE COMPANIE.",
     "category": "Zona montana",
     "id": "6",
-    "description": "Cabana Plaiul Foii poate găzdui un număr de 34 de turişti, pe cele 2 etaje destinate oaspeților. Toate cele 15 camere au un design rustic, respectând și cerințele celor mai sofisticați dintre noi.Pentru familii, recomandăm unul dintre cele două apartamente - bucurați-vă de spațiu și intimitate.* 3 din camerele pensiunii au intrare separată, prin spatele pensiunii. Toate camerele au același confort: sunt amenajate rustic și toate au baie proprie.* NU PRIMIM ANIMALE DE COMPANIE"
+    "description": "Apropie-te din nou de natură și uită de stresul citadin. Încojurat de pădure, vegheat de Masivul Piatra Craiului, îți promitem o experiență completă: sentimentul unui lodge din Alpi, dar înconjurat de tradiționalism românesc. Se află în zona montană a Munților Piatra Craiului, în apropiere de Zărnești, județul Brașov, România. Aceasta este o destinație populară pentru iubitorii de drumeții și natură, oferind acces facil la traseele montane din Parcul Național Piatra Craiului."
   },
   {
     "name": "Pensiunea Casa Bunicii",
     "imageUrl": "https://www.descoperimromania.ro/wp-content/uploads/2015/09/Cazare-la-Casa-Bunicii-din-Costesti-Hunedoara-Hunedoara-Transilvania-9.jpg",
     "price": 400,
-    "details": "se află în zona montană a Munților Apuseni, în localitatea Albac, județul Alba, România. Aceasta este o destinație ideală pentru turiștii care doresc să exploreze peisajele pitorești și tradițiile autentice ale Munților Apuseni.",
+    "details": "Livingroom: Un spaţiu central de 65 mp care găzduieşte bucătăria de tip open-space, bucătăria este complet utilată şi dotată. Pensiunea dispune de 3 camere duble (2 cu pat matrimonial iar una cu doua paturi de cate o persoana, care, la cerere se pot uni), fiecare fiind dotată cu baie proprie. Pensiunea dispune si de un apartament, format din: cameră dublă (cu pat matrimonial) + living (cu o canapea extensibilă) + baie proprie. De nelipsit din dotările pensiunii este și ciubărul, cu o capacitate de 8 persoane, cu apă calda (38-40 grade C). Loc de joacă pentru copii. Mansarda: Are o suprafață de 200 mp, aceasta reprezentând locul perfect pentru distracție. Aceasta este dotată cu masă de ping-pong, masă de biliard, masă de cso-cso (fotbal de masă) și o masă multi-games pentru copii. De nelipsit sunt și jocurile de masă (șah, remi, jenga, cărți, etc.). Semnalul la telefonia mobilă este slab si doar “pe alocuri”, dar pensiunea dispune de conexiune la internet WI-FI. ",
     "category": "Zona montana",
     "id": "7",
-    "description": "Livingroom: Un spaţiu central de 65 mp care găzduieşte bucătăria de tip open-space, bucătăria este complet utilată şi dotată. Pensiunea dispune de 3 camere duble (2 cu pat matrimonial iar una cu doua paturi de cate o persoana, care, la cerere se pot uni), fiecare fiind dotată cu baie proprie. Pensiunea dispune si de un apartament, format din: cameră dublă (cu pat matrimonial) + living (cu o canapea extensibilă) + baie proprie. De nelipsit din dotările pensiunii este și ciubărul, cu o capacitate de 8 persoane, cu apă calda (38-40 grade C). Loc de joacă pentru copii. Mansarda: Are o suprafață de 200 mp, aceasta reprezentând locul perfect pentru distracție. Aceasta este dotată cu masă de ping-pong, masă de biliard, masă de cso-cso (fotbal de masă) și o masă multi-games pentru copii. De nelipsit sunt și jocurile de masă (șah, remi, jenga, cărți, etc.). Semnalul la telefonia mobilă este slab si doar “pe alocuri”, dar pensiunea dispune de conexiune la internet WI-FI. "
+    "description": "Se află în zona montană a Munților Apuseni, în localitatea Albac, județul Alba, România. Aceasta este o destinație ideală pentru turiștii care doresc să exploreze peisajele pitorești și tradițiile autentice ale Munților Apuseni."
   },
   {
     "name": "Cabana Postăvaru",
     "imageUrl": "https://zilesinopti.ro/wp-content/uploads/2021/08/4cf8b58e6ba2f9b0081bf30dd9e10c54.jpg",
     "price": 550,
-    "details": "Veniți și stați pe munte cu noi la Cabana Postăvaru la 1604 metri (5262 ft) la o priveliste uimitoare a muntilor din preajma pentru un sejur cu adevărat memorabil. Dacă sunteți în căutarea unui hotel in Poiana Brasov si doriti o experiență cu adevărat rustica pe munte, atunci luati-va cazarea in Poiana cu noi.",
+    "details": "Ceea ce ne lipsește în lux, vom compensa cu căldură, oferindu-va o experiență frumoasă la cabana de pe munte și acces instant la pârtiile de schi. Fie ca doriti o experienta intima sau cu un grup de prieteni care doresc să se bucure de pante, vom avea camera pe care o doriti. Avem camere variind de la camere confortabile, cu baie proprie până la suite de 6 persoane cu baie comună.Toate tarifele camerelor includ micul dejun. Activitățile Cabanei Postavaru păstrează aventura în mișcare atat iarna,cat si vara de la schi & snowboard iarna la stațiunea de schi Poiana Brașov, la drumetii si plimbari, aventuri 4X4, cu ATV-uri de închiriat .",
     "category": "Zona montana",
-    "id": "8"
+    "id": "8",
+    "description": "Veniți și stați pe munte cu noi la Cabana Postăvaru la 1604 metri (5262 ft) la o priveliste uimitoare a muntilor din preajma pentru un sejur cu adevărat memorabil. Dacă sunteți în căutarea unui hotel in Poiana Brasov si doriti o experiență cu adevărat rustica pe munte, atunci luati-va cazarea in Poiana cu noi."
   },
   {
     "name": "Pensiunea Casa Feleacu",
     "imageUrl": "https://casadinfeleacu.ro/wp-content/uploads/2023/08/CasaDinFeleac_165.jpg",
     "price": 500,
-    "details": "Pensiunea Casa Feleacu se află în zona montană a Feleacului, în localitatea Feleacu, județul Cluj, România. Aceasta este situată în apropierea orașului Cluj-Napoca, oferind acces facil la peisajele pitorești ale regiunii și diverse activități în aer liber.",
+    "details": "Ideal pentru familii - Casa din Feleacu Feleacu va pune la dispozitie trei camere (14 persoane) amenajate placut si cu rafinament. Se ofera parcare gratuita. Va puteti conecta la internet prin reteaua wireless disponibila in pensiune. Acceptăm toate tipurile de carduri de vacanță. Mănăstirea Feleacu Sfânta Treime se situeaza la 800 m distanta fata de pensiune.",
     "category": "Zona montana",
-    "id": "9"
+    "id": "9",
+    "description": "Pensiunea Casa Feleacu se află în zona montană a Feleacului, în localitatea Feleacu, județul Cluj, România. Aceasta este situată în apropierea orașului Cluj-Napoca, oferind acces facil la peisajele pitorești ale regiunii și diverse activități în aer liber."
   },
   {
     "name": "Cabana Vânătorilor",
     "imageUrl": "https://alfitravel.ro/media/cache/package_main/images/hotel/41592/t18-cabana-vanatorilor-1364.jpg",
     "price": 350,
-    "details": "Cabana Vânătorilor se află în zona montană a Munților Bucegi, în apropiere de stațiunea Sinaia, județul Prahova, România. Aceasta este o destinație populară pentru turiștii care doresc să exploreze traseele montane din Bucegi și să se bucure de frumusețea naturală a regiunii.",
+    "details": "Hotelul Cabana Vanatorilor sta la dispozitia turistilor cu  7 apartamente si 20 de camere duble, dotate cu mobilier modern ,aer conditionat ,minibar, televiziune prin cablu,incalzire centrala, telefon, sistem de acces cu card.Baile private sunt dotate cu dus sau cada ,uscator de par.Unele camere dispun si de balcon. Facilitati generale : receptie,restaurant cu terasa,bar, centru spa,sauna,jacuzzi,sala de conferinte. Sala de conferinta este pentru 40 de persoane si este dotata cu proiector, ecran, flip chart. Servicii masa : Mic dejun - bufet suedez, pranz si cina a la carte.Restaurantul  propiu,serveste  bucate vanatoresti realizate cu multa grija si pricepere de un colectiv de profesionisti in bucatarie si nu numai. Activitati in imprejurimi : ski, snowboard, ATV. Atractii in zona: trasee turistice montane in imprejurimi (Canionul ,,Sapte scari', Cascada ,,Tamina', Pestera de gheata, Cheile Rasnoavei), Manastirea ,,Sfantul Nicolae', Biserica ortodoxa ,Sfintii Imparati Constantin si Elena', Capela romano-catolica ,,Timisul de Jos', Manastirea romano-catolica ,,Timisul de Jos', Monumentul Eroilor - Valea Rasnoavei, Monumentul ,,Mihail Saulescu', Monumentul Eroilor din gara Predeal",
     "category": "Zona montana",
-    "id": "10"
+    "id": "10",
+    "description": "Cabana Vânătorilor se află în zona montană a Munților Bucegi, în apropiere de stațiunea Sinaia, județul Prahova, România. Aceasta este o destinație populară pentru turiștii care doresc să exploreze traseele montane din Bucegi și să se bucure de frumusețea naturală a regiunii."
   },
   {
     "name": "Pensiunea La Răscruce",
     "imageUrl": "https://i.szalas.hu/hotels/1407423/original/36449149.jpg",
     "price": 300,
-    "details": "Pensiunea La Rascruce este amplasata intr-un cadru natural de vis, in apropierea Cascadei Urlatoarea din muntii Ciucas.",
+    "details": "Pensiunea va pune la dispozitie 25 de locuri de cazare dispuse in 9 spatii de cazare dotate cu baie proprie si televizor. Servicii suplimentare incluse in pret: Parcare proprie gratuita, Foisor, Gratar. Alte servicii oferite contra cost: Inchirieri Biciclete, Pescuit sportiv",
     "category": "Zona montana",
-    "id": "11"
+    "id": "11",
+    "description": "Pensiunea La Rascruce este amplasata intr-un cadru natural de vis, in apropierea Cascadei Urlatoarea din muntii Ciucas."
   },
   {
     "name": "Cabana Daria",
     "imageUrl": "https://lapasturistic.ro/wp-content/uploads/2021/12/Cabana-Daria-Arieseni_lapasturistic-8-1.jpg",
-    "price": 550,
-    "details": "Cabana Daria este situată pe valea Buciniş în Arieşeni, în inima Munţilor Apuseni, la doar 10km de pârtia Vârtop.Cabana Daria este formată din 3 corpuri de clădiri, construită şi mobilată în stil rustic la standarde înalte cu materiale de cea mai buna calitate.",
+    "price": 400,
+    "details": " Dispunem de camere dotate cu baie proprie, televizor si pat matrimonial precum şi camere cu pat matrimonial şi pat supraetajat pentru copii. Capacitatea de cazare este de 43 de locuri în 17 camere. Cabana oferă zone comune cu living şi locuri spaţioase pentru luat masa, loc de depozitat schiuri şi parcare proprie. Vă punem la dispoziţie bucătării complet şi modern utilate pentru prepararea micului dejun pe durata sejurului. În zona exterioară există grătar. Se poate comanda mâncare între orele 12 - 22 meniu de restaurant în regim de catering.",
     "category": "Zona montana",
-    "id": "12"
+    "id": "12",
+    "description": "Cabana Daria este situată pe valea Buciniş în Arieşeni, în inima Munţilor Apuseni, la doar 10km de pârtia Vârtop.Cabana Daria este formată din 3 corpuri de clădiri, construită şi mobilată în stil rustic la standarde înalte cu materiale de cea mai buna calitate."
   },
   {
     "name": "Pensiunea Casa Zânelor",
     "imageUrl": "https://www.casa-zanelor.ro/assets/images/home-img-1.jpg",
     "price": 370,
-    "details": "Eleganța, rafinamentul, intimitatea, liniștea și aerul curat caracterizează pensiunea Casa Zânelor care vă așteaptă să-i fiți oaspeți. Ambientul și dotările pot satisface și cele mai exigente gusturi.Pensiunea Casa Zânelor se află în zona montană a Munților Bucegi, în localitatea Bușteni, județul Prahova, România. Această pensiune oferă o atmosferă pitorească și acces ușor la traseele montane din zona Bucegi, fiind o destinație populară pentru turiștii care doresc să exploreze frumusețea naturală a regiunii.",
+    "details": "Cazare: Apartamentele noastre de lux, junior suite, camerele single și camerele duble sunt personalizate și dotate la cele mai înalte standarde, fiecare cu grup sanitar propriu. Restaurantul nostru modern îți oferă oportunitatea de a petrece o seară inedită alături de cei dragi. Vei fi răsfățat în această ambianţă cu delicatese culinare speciale pe care le vei alege dintr-un meniu a la carte variat. Te invităm să descoperi ce înseamnă ce înseamnă ospitalitatea şi eleganţa. În plus, muzica riguros aleasă te va face să trăiești clipe minunate. Capacitatea restaurantului este de 80-100 de persoane iar al foișorului de 45-50 persoane. SALĂ DE CONFERINȚE ȘI EVENIMENTE: În dorinţa de a veni în întâmpinarea oricăror cerinţe, am creat un spaţiu în care clasicul se îmbină cu modernul. Casa Zânelor vă pune la dispoziţie o sală cu o capacitate de 50 locuri, complet utilată, dotată corespunzător cu videoproiector, flipchart și sistem de sonorizare. Sala poate fi amenajată pentru diferite evenimente private: petreceri aniversare, majorate, botez conferințe, întâlniri de afaceri, etc. Vă așteptăm !",
     "category": "Zona montana",
-    "id": "13"
+    "id": "13",
+    "description": "Eleganța, rafinamentul, intimitatea, liniștea și aerul curat caracterizează pensiunea Casa Zânelor care vă așteaptă să-i fiți oaspeți. Ambientul și dotările pot satisface și cele mai exigente gusturi.Pensiunea Casa Zânelor se află în zona montană a Munților Bucegi, în localitatea Bușteni, județul Prahova, România. Această pensiune oferă o atmosferă pitorească și acces ușor la traseele montane din zona Bucegi, fiind o destinație populară pentru turiștii care doresc să exploreze frumusețea naturală a regiunii."
   },
   {
     "name": "Cabana Bâlea Lac",
     "imageUrl": "https://fastly.4sqi.net/img/general/600x600/1413907_xgrGNGc5rBOJohdWTyb4lcnuGa4G5-c_vj9y3Bfs10Q.jpg",
     "price": 500,
-    "details": "În mijlocul unuia dintre cele mai frumoase regiuni montane din Carpați, Cabana Bâlea Lac este situată lângă un lac glaciar. Fiind direct accesibilă din legendarul drum Transfăgărășan, la o altitudine de 2034 de metri deasupra nivelului mării, cabana oferă cazare conform standardelor internaționale.",
+    "details": "SERVICII SI TARIFE: Cabana Bâlea Lac I *** pune la dispoziţia turiştilor: Camera dublă 2 locuri “Panorama” cu vedere superba la munți, față de sticla, 6 camere duble, 3 camere cu trei – patru paturi, 2 garsoniere. Cabana Balea Lac II *** pune la dispozitia turistilor: 11 camere duble, 1 camera tripla, 2 apartamente, 3 camere single. Toate echipate conform standardelor internaţionale. Mobilierul confecţionat din lemn natur în stil rustic subtil modernizat, lenjeria de calitate superioară, toaletele mobilate cu lavou, duş, WC, sunt funcţionale, cu apă caldă (permanent), uscător de păr şi aspirator de aer. Toate camerele au, televizor care pot deveni nefunctionale in caz de vreme nefavorabila (vant sau furtuni cu descarcari electrice) si in cazul in care reteaua de internet este suprasolicitata.Televizoarele functioneaza pe baza de internet,iar sursa la aceasta inaltime (2034m.) nu este prin cablu ci este wireless.",
     "category": "Zona montana",
-    "id": "14"
+    "id": "14",
+    "description": "În mijlocul unuia dintre cele mai frumoase regiuni montane din Carpați, Cabana Bâlea Lac este situată lângă un lac glaciar. Fiind direct accesibilă din legendarul drum Transfăgărășan, la o altitudine de 2034 de metri deasupra nivelului mării, cabana oferă cazare conform standardelor internaționale."
   },
   {
     "name": "Pensiunea Valea Argesului",
     "imageUrl": "https://www.roturistic.ro/img/user/Albestii_de_Arges_Valea_Argesului/Albestii_de_Arges_Valea_Argesului_1628439806.46969199.jpg",
     "price": 400,
-    "details": "Pensiunea Valea Argeșului se află în zona montană a Munților Făgăraș, în apropierea orașului Câmpulung, județul Argeș, România. Aceasta este o destinație populară pentru turiștii care doresc să exploreze peisajele spectaculoase ale Munților Făgăraș și să se bucure de liniștea și natura din această zonă.",
+    "details": "La această pensiune, camerele sunt dotate cu dulap pentru haine, balcon cu o vedere la munte, baie proprie, televizor cu ecran plat, lenjerie de pat și prosoape. Baia proprie oferă un duș și articole de toaletă gratuite. La proprietate puteți savura un mic dejun englezesc/irlandez complet, american sau vegetarian. La Complex Valea Argesului puteți juca darts, iar zona este populară pentru ciclism. Parcul acvatic Cozia se află la 39 km de Complex Valea Argesului. Cel mai apropiat aeroport este Aeroportul Internaţional Sibiu, situat la 110 km de această pensiune.",
     "category": "Zona montana",
-    "id": "15"
+    "id": "15",
+    "description": "Pensiunea Valea Argeșului se află în zona montană a Munților Făgăraș, în apropierea orașului Câmpulung, județul Argeș, România. Aceasta este o destinație populară pentru turiștii care doresc să exploreze peisajele spectaculoase ale Munților Făgăraș și să se bucure de liniștea și natura din această zonă."
   },
   {
     "name": "Cabana Omu",
     "imageUrl": "https://aventurainromania.ro/wp-content/uploads/2017/12/Varful_Omu.jpg",
-    "price": 550,
-    "details": "Situată pe vârful Omu, cel mai înalt vârf al Munților Bucegi, Cabana Omu este cabana plasată la cea mai mare înălțime în Carpați (2505 m). Alături de cabană, se află Stația meteorologică Vârful Omu, aceasta fiind cel mai înalt punct locuit permanent din România. Cabana Omu este prima cabană de piatră construită în munții Bucegi (3 septembrie 1888).",
+    "price": 200,
+    "details": "Conditii: - Capacitate 44 locuri de cazare la prici. Restul in camere de 2, 4 paturi si 12 locuri la mansarda/pod; - Sala de masa cu bufet, fara apa. Curent electric in prima jumatate a salii de mese (spre bucatarie). Lumina se stinge la 22,30.- Localizare: Vf. Omu. - Acces: Pe diferite trasee turistice dinspre Busteni, Sinaia, Predeal, Poiana Tapului sau Bran, cel mai facil fiind cu telecabina din Busteni pana la Babele si apoi un traseu de 3 ore pe plato",
     "category": "Zona montana",
-    "id": "16"
+    "id": "16",
+    "description": "Situată pe vârful Omu, cel mai înalt vârf al Munților Bucegi, Cabana Omu este cabana plasată la cea mai mare înălțime în Carpați (2505 m). Alături de cabană, se află Stația meteorologică Vârful Omu, aceasta fiind cel mai înalt punct locuit permanent din România. Cabana Omu este prima cabană de piatră construită în munții Bucegi (3 septembrie 1888)."
   },
   {
     "name": "Pensiunea Hanul Vatra",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/31/9e/4a/hanul-vatra.jpg",
     "price": 450,
-    "details": "Corpul vechi al Hanului Vatra – cu arcadele stil neoromanesc rural – a fost construit intre cele doua razboaie mondiale de catre o familie de boieri din sat.Pensiunea Hanul Vatra se află în zona montană a Munților Apuseni, în localitatea Arieșeni, județul Alba, România. Arieșeni este o destinație cunoscută pentru peisajele sale pitorești și pentru activitățile în aer liber, fiind o opțiune populară pentru turiștii care vizitează Munții Apuseni.",
+    "details": "FACILITATI: Conditii moderne, spatii adaptabile si zone pentru relaxare. Suntem dimensionati pentru capacitatea de maximum 30 de persoane, oferim conditii moderne, spatii comune generoase si un cadru ambiental simplu, fara detalii de prisos. entru finisaje am ales materiale de calitate, care imbatranesc frumos. Am ales o ceramica facuta manual sau piatra naturala pentru pardoseli, dusumea din stejar masiv tratata cu ulei si ferestre din lemn de stejar stratificat. Am pus mare pret pe refacerea detaliilor originale ale cladirii vechi, trecute in umbra in perioada de dupa nationalizare. Am inglobat  in corpurile noi elemente specifice zonei, cum ar fi crucile comune fanarelor din zona. Prin ondularea acoperisului la corpul nou am vrut sa evocam destinatia initiala a cladirii – cea de bai cu ape minerale – pe care din pacate nu am putut-o pastra. Hanul Vatra e locatia ideala pentru un week-end departe de aglomeratia oraselor mari, pentru petreceri private, drumetii cu prietenii pe munte, cursuri sau intalniri de team building.",
     "category": "Zona montana",
-    "id": "17"
+    "id": "17",
+    "description": "Corpul vechi al Hanului Vatra – cu arcadele stil neoromanesc rural – a fost construit intre cele doua razboaie mondiale de catre o familie de boieri din sat.Pensiunea Hanul Vatra se află în zona montană a Munților Apuseni, în localitatea Arieșeni, județul Alba, România. Arieșeni este o destinație cunoscută pentru peisajele sale pitorești și pentru activitățile în aer liber, fiind o opțiune populară pentru turiștii care vizitează Munții Apuseni."
   },
   {
     "name": "Cabana Gura Diham",
     "imageUrl": "https://www.roturistic.ro/img/user/Busteni_Gura_Diham/Busteni_Gura_Diham_0357963001307086014.jpg",
     "price": 500,
-    "details": "Cabana Gura Diham se află în zona montană a Munților Bucegi, în apropiere de stațiunea Bușteni, județul Prahova, România. Această cabană este amplasată într-o locație pitorească, oferind acces facil la traseele montane din zona Bucegi și fiind o destinație populară pentru iubitorii de natură și drumeții.",
+    "details": "Aflat într-o zonă retrasă înconjurată de pădure, la 4 km de staţiunea Buşteni şi pârtia de schi Kalinderu, Gura Diham este situat într-un han din 1910 renovat. Oferă un restaurant, 2 terase, un foişor cu facilităţi de grătar şi posibilitatea de a organiza un foc de tabără. Oaspeţii pot savura specialităţi româneşti tradiţionale şi preparate internaţionale într-o atmosferă rustică. De asemenea, se pot relaxa în sala de fitness mică, prevăzută cu o saună şi o cadă cu hidromasaj. Toate camerele proprietăţii sunt dotate cu TV prin cablu şi minibar. Fiecare unitate are baie privată cu duş. Accesul la internet Wi-Fi este gratuit în întreaga clădire. Gara din Buşteni se află la 3,5 km. Parcarea este gratuită în faţa proprietăţii.",
     "category": "Zona montana",
-    "id": "18"
+    "id": "18",
+    "description": "Cabana Gura Diham se află în zona montană a Munților Bucegi, în apropiere de stațiunea Bușteni, județul Prahova, România. Această cabană este amplasată într-o locație pitorească, oferind acces facil la traseele montane din zona Bucegi și fiind o destinație populară pentru iubitorii de natură și drumeții."
   },
   {
     "name": "Hotel Malibu",
     "imageUrl": "https://img.directbooking.ro/getimage.ashx?w=880&h=660&file=2f095a89-d5d9-4a90-aa8c-4ac48418aada.jpg",
     "price": 700,
-    "details": "Amplasat la intrarea sudica a statiunii Mamaia, Hotelul Malibu ofera datorita pozitionarii ideale, acces la toate obiectivele importante ale zonei.Aceasta este o destinație populară pentru turiștii care doresc să se bucure de plaje, activități nautice și viață de noapte vibrantă.",
+    "details": " Datorita pozitionarii privilegiate, oaspetii hotelului pot avea o experienta fantastica urmarind rasaritul din mare sau apusul pe lac. Bucurati-va de zile fara griji, relaxati-va la SPA, pe plaja, la piscina exterioara de pe plaja sau explorati statiunea Mamaia. Hotel Malibu are misiunea de a va oferi o experienta unica indiferent daca sunteti in cautare de o distractie la soare pentru intreaga familie, o vacanta linistita in cuplu sau calatoriti in interes de serviciu. Este un hotel modern, inaugurat in vara anului 2006 si renovat in 2018 si 2022. Camerele sunt decorate in culori calde si au atat vedere spre mare, cat si spre lac. Dintre aceste camere, 22 sunt apartamente, 50 sunt camere twin, iar 78 sunt camere cu pat matrimonial. La cerere structura camerelor poate suferi modificari.",
     "category": "Litoral",
-    "id": "19"
+    "id": "19",
+    "description": "Amplasat la intrarea sudica a statiunii Mamaia, Hotelul Malibu ofera datorita pozitionarii ideale, acces la toate obiectivele importante ale zonei.Aceasta este o destinație populară pentru turiștii care doresc să se bucure de plaje, activități nautice și viață de noapte vibrantă."
   },
   {
     "name": "AXO Boutique HOTEL by BUILDING STEFAN",
     "imageUrl": "https://www.ekeys.ro/wp-content/uploads/2023/10/axo-boutique-hotel-mamaia-nord-constanta-navodari-cazare-mis-7-scaled.jpg",
-    "price": 650,
-    "details": "AXO Boutique HOTEL by BUILDING STEFAN se află în Năvodari, la 2,2 km de Marina Regia. Proprietatea se găsește la 6 km de Lacul Siutghiol, la 12 km de City Park Mall.Cuplurile apreciază în mod deosebit această locație.",
+    "price": 980,
+    "details": "La acest hotel, toate camerele sunt echipate cu dulap pentru haine, televizor cu ecran plat, baie proprie, lenjerie de pat și prosoape. Baia proprie oferă un duș și un uscător de păr. AXO Boutique HOTEL by BUILDING STEFAN se află la 40 km de Cheile Dobrogei și la 10 km de Aqua Magic. Cel mai apropiat aeroport este Aeroportul Internaţional Mihail Kogălniceanu, situat la 20 km de AXO Boutique HOTEL by BUILDING STEFAN.",
     "category": "Litoral",
-    "id": "20"
+    "id": "20",
+    "description": "AXO Boutique HOTEL by BUILDING STEFAN se află în Năvodari, la 2,2 km de Marina Regia. Proprietatea se găsește la 6 km de Lacul Siutghiol, la 12 km de City Park Mall.Cuplurile apreciază în mod deosebit această locație."
   },
   {
     "name": "JMR Royal",
     "imageUrl": "https://jumeirah-royal-constanta.booked.net/data/Photos/OriginalPhoto/15671/1567142/1567142867/Jmr-Royal-Hotel-Constanta-Exterior.JPEG",
     "price": 900,
-    "details": "JMR Royal reprezintă un hotel boutique luxos și liniștit în inima Constanței, un oraș de la malul mării. Este o clădire veche din 1920 cu o istorie remarcabilă, frumos restaurată și păstrată cu gust în 2018 de designeri italieni. După restaurare, clădirea a fost transformată într-un boutique-hotel format din 6 apartamente luxoase.",
+    "details": "Bine ati venit! Aici puteți găsi liniștea și relaxarea de care aveți nevoie dacă veniți într-o călătorie de afaceri sau într-un city break. Poți fi în centrul Constanței sau pur și simplu în atmosfera brizei liniștitoare a mării, hotelul nostru tip boutique este situat la 10 minute de mare. Oferim 6 apartamente, de la tipurile de camere Premium și Superioare până la camere Royal și Prezidențiale, decorate în stiluri rafinate. JMR Royal se găsește în Constanţa, la aproximativ 1,7 km de Plaja Aloha, și are o grădină, rooms fără alergeni, WiFi gratuit în întreaga proprietate și un bar. Această proprietate oferă un loc de joacă pentru copii și se află la mică distanță de Modern Beach, Piaţa Ovidiu și Museum of National History and Archeology. Acest hotel are o saună și room-service. La acest hotel, camerele au climatizare, o zonă de relaxare, un televizor cu ecran plat cu canale prin satelit, o cutie de valori și o baie proprie cu duș, articole de toaletă gratuite și un uscător de păr. Camerele includ o cafetieră, iar unele camere speciale se mândresc și cu o terasă sau vedere la oraș views. La JMR Royal, fiecare cameră oferă lenjerie de pat și prosoape. JMR Royal se află la 4,1 km de City Park Mall & Cora Hypermarket și la 11 km de Lacul Siutghiol. Cel mai apropiat aeroport este Aeroportul Internaţional Mihail Kogălniceanu, situat la 24 km de acest hotel.",
     "category": "Litoral",
-    "id": "21"
+    "id": "21",
+    "description": "JMR Royal reprezintă un hotel boutique luxos și liniștit în inima Constanței, un oraș de la malul mării. Este o clădire veche din 1920 cu o istorie remarcabilă, frumos restaurată și păstrată cu gust în 2018 de designeri italieni. JMR Royal se găsește în Constanţa, după restaurare, clădirea a fost transformată într-un boutique-hotel format din 6 apartamente luxoase."
   },
   {
     "name": "Vila Amur",
     "imageUrl": "https://www.turistinfo.ro/images/cazare/766669.jpg",
-    "price": 470,
-    "details": "Construita in anul 2015, Vila Amur este situata intr-o zona linistita, inconjurata de verdeata si aproape de mare. Fiind localizata intre cele 2 statiuni, Jupiter si Neptun, vila este situate la 400 m de plaja Jupiter si 600 m de plaja Neptun.",
+    "price": 320,
+    "details": "Fiecare camera este dotata cu: balcon, baie proprie, Tv, aer conditionat (contra cost ), internet wireless, frigider. De asemenea, vila dispune de foisor cu gratare si spatiu de joca pentru copii special amenajat. Mai multe poze si detalii gasiti pe pagina noastra de Facebook: Vila Amur Jupiter. Turistii Vilei Amur beneficiaza de 10% discount la Restaurantul cu acelasi nume, situat in statiunea Jupiter, la 5 minute de vila! Pentru alte detalii si rezervari, va asteptam sa ne contactati!",
     "category": "Litoral",
-    "id": "22"
+    "id": "22",
+    "description": "Construita in anul 2015, Vila Amur este situata intr-o zona linistita, inconjurata de verdeata si aproape de mare. Fiind localizata intre cele 2 statiuni, Jupiter si Neptun, vila este situate la 400 m de plaja Jupiter si 600 m de plaja Neptun."
   },
   {
     "name": "Cabana Moțului",
     "imageUrl": "https://www.picomartravel.ro/cache/d/2/6/7/1/d267190b6b9f64c921dd8b8ebddde41e644475fe.jpeg",
     "price": 300,
-    "details": "Departe de aglomeraţia orașului, în mijlocul naturii, pensiunea Casa Moțului din Arieșeni - Munții Apuseni vă oferă o oaza de liniște creată special pentru familie. Astfel, dorim să promovăm ideea clădită de moții primitori, în care familia și tradiția sunt puse la loc de cinste. Așadar, am creat un locșor plin de bună - dispoziție, care vă va face să uitați de grijile vieții de zi cu zi. Prin atmosfera creată de noi și împrejurimile spectaculoase, timpul nu va mai avea însemnătate.",
+    "details": "Puteți alege pentru cazare între camere și apartamente pentru una, două sau mai multe persoane, destule pentru 50 de oaspeți, întocmai rânduite pentru a vă mulțumi pe deplin. Încăperile sunt amenajate după datina unei case primitoare, mobilierul fiind într-un stil rustic, iar lenjeria țesută din in și cânepă. Restaurantul pensiunii are o capacitate de 50 de locuri în incinta pensiunii și 50 de locuri la terasa acoperită. Oferim un meniu bogat - à la carte, băuturi tradiționale și deserturi autohtone. Dar asta nu e totul: Arieşeni este un loc plin de locuri perfecte pentru a fi vizitate. Unele găzduiesc frumuseţi nemaiîntâlnite, altele te readuc la tradiţia ce se regăsea odată pe aceste meleaguri. Iubitorii de natură se vor simţi în largul lor deoarece Arieşeni este un loc propice pentru drumeţii, alpinism, vânătoare, pescuit, picnic în aer liber, nordic walking sau trekking.",
     "category": "Zona montana",
-    "id": "23"
+    "id": "23",
+    "description": "Departe de aglomeraţia orașului, în mijlocul naturii, pensiunea Casa Moțului din Arieșeni - Munții Apuseni vă oferă o oaza de liniște creată special pentru familie. Astfel, dorim să promovăm ideea clădită de moții primitori, în care familia și tradiția sunt puse la loc de cinste. Așadar, am creat un locșor plin de bună - dispoziție, care vă va face să uitați de grijile vieții de zi cu zi. Prin atmosfera creată de noi și împrejurimile spectaculoase, timpul nu va mai avea însemnătate."
   },
   {
     "name": "Pensiunea La Mesteceni",
     "imageUrl": "https://i.szalas.hu/hotels/1407379/original/36448194.jpg",
     "price": 300,
-    "details": "Pensiunea La Mesteceni se află în zona montană a județului Brașov, în localitatea Moieciu de Jos, România. Aceasta este o destinație cunoscută pentru peisajele sale pitorești din Munții Bucegi și pentru atmosfera relaxantă pe care o oferă turiștilor.",
+    "details": "La Mesteceni este o oază de liniște și relaxare, situată în inima naturii, unde fiecare vizitator are oportunitatea de a experimenta stări de bine și deplină conectare cu mediul înconjurător. Pensiunea dispune de 10 camere: 4 camere standard dbl cu câte 2 paturi sgl și 6 camere confort dbl dintre care 2 cu pat matrimonial și 4 cu 2 paturi sgl. Patul suplimentar se poate adăuga doar în camere confort dbl cu pat matrimonial. Indiferent de varianta de cameră pentru care optați, veți beneficia de: TV, WI-FI, baie individuala, balcon.",
     "category": "Zona montana",
-    "id": "24"
+    "id": "24",
+    "description": "Pensiunea La Mesteceni se află în zona montană a județului Brașov, în localitatea Moieciu de Jos, România. Aceasta este o destinație cunoscută pentru peisajele sale pitorești din Munții Bucegi și pentru atmosfera relaxantă pe care o oferă turiștilor."
   },
   {
     "name": "Hotel RANDY",
     "imageUrl": "https://randyhotel.ro/wp-content/uploads/2023/07/Hotel-Randy-Constanta-bld-Mamaia-centru-0041111.jpg",
     "price": 700,
-    "details": "Situat pe bulevardul Mamaia, principala arteră care face legătura între centrul orașului Constanța și stațiunea Mamaia, este locul perfect de sejur atât pentru oamenii de afaceri cât și pentru turiștii care vor să descopere Mamaia si Constanța. Poziția sa excelentă, la cateva minute de mers pe jos până la plajă sau cateva minute cu masina pana la principalele atractii (statiunea Mamaia, orasul vechi, portul turistic, Cazinoul, etc) aduce hotelul Randy în topul preferințelor turiștilor care vor să se bucure de relaxare, plajă și mare.",
+    "details": "Randy Hotel**** un nou concept, o nouă abordare. Excelent pentru o vacanță cu familia, un sejur cu prietenii sau pentru o călătorie de afaceri. Suntem atenți la detalii astfel încât timpul pe care îl petreceți în hotelul nostru să fie unul de care să vă aduceți mereu aminte cu plăcere! Renovate complet în anul 2022, cele 5 apartamente, 30 de camere matrimoniale foarte spațioase și cele 15 camere cu twin cu două paturi, precum și spațiile comune, au primit amprenta unui nou stil decorativ adus hotelului Randy, un concept modern, elegant și plin de rafinament. Camerele dotate cu mobilier din lemn masiv au fost redecorate, fiind gândite patru tipuri de interioare care cu siguranță vă vor încânta vizual. Hotel Randy nu este răspunzător pentru bunurile personale de valoare ce nu sunt depozitate în seiful aferent camerei. Personalul nostru auxiliar este compus din persoane de încredere (deservind adesea mulți clienți din categoria VIP), iar hotelul este dotat cu camere video amplasate în zonele generale. Restaurantul nostru se pretează perfect la servirea micului dejun, însă vă oferă de asemenea o bogată ofertă de preparate a la carte. În caz că doriți să comandați mâncare prin servicii de livrare la domiciliu, vă rugăm să consumați aceste alimente pe terasa unității de cazare, sau în restaurantul nostru aflat la parter. Produsele din Minibar sunt contracost, conform listei de prețuri afișată în cameră. Vă mulțumim mult pentru alegere și vă promitem o primire caldă de fiecare dată din partea personalului nostru prietenos!",
     "category": "Litoral",
-    "id": "25"
+    "id": "25",
+    "description": "Situat pe bulevardul Mamaia, principala arteră care face legătura între centrul orașului Constanța și stațiunea Mamaia, este locul perfect de sejur atât pentru oamenii de afaceri cât și pentru turiștii care vor să descopere Mamaia si Constanța. Poziția sa excelentă, la cateva minute de mers pe jos până la plajă sau cateva minute cu masina pana la principalele atractii (statiunea Mamaia, orasul vechi, portul turistic, Cazinoul, etc) aduce hotelul Randy în topul preferințelor turiștilor care vor să se bucure de relaxare, plajă și mare."
+  },
+  {
+    "name": "La Cuib-Sovata",
+    "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479749779.jpg?k=a05ff4cbb550ea5b08a6d1dd925f2d660640239fde439b08eb492a3c3dd2966a&o=&hp=1",
+    "price": 1400,
+    "details": "Cabana se inchiriaza integral si poate gazdui pana la maxim 8 persoane. La parter gasesti un living generos, spatiu de luat masa, bucatarie complet utiliata, baie. La etaj te asteapta 3 camere, 2 camere cu pat dublu; 1 camera dispune de un pat dublu plus unul extra, de o persoana. La exterior: zona de barbeque cu bucatarie complet utilata in aer liber, zona de luat masa, spatiu de activitati si recreere, ciubar, pavilion (unde pot innopta 2 persoane) cu priveliste instagramabila. 🙂 La Cuib - Sovata se afla la | 5 minute de lacul Ursu | 20 minute de Praid | 40 minute de Aeroportul International Targu Mures",
+    "category": "Zona montana",
+    "description": "Departe de agitatie, si totusi intr-una dintre cele mai cunoscute statiuni balneoclimaterice din Europa - LA CUIB - Sovata - iti oferim experienta unor amintiri memorabile. Pentru o stare imediata de bine . . .  este dovada unei personalitati artistice ce nu respecta reguli, simbol al unui spirit liber, creativ si exuberant, dirijat de dorintele inimii. O poveste ce imbina trecutul proprietarilor, dar si prezentul acestora. Decorul cuprinde elemente pline de amintiri si de valoare emotionala pentru cei ce l-au construit. Este locul ideal pentru cei care iubesc natura si tihna. Exact ca un cuib, cabana a fost construita din materiale naturale. Gasesti la interior elemente din exterior - lemn, pamant, piatra. Aproape totul este realizat handmade - de la elementele decorative, pana la chiuvete, mobilier, baie, paturi, scaune - suntem incantati sa te invitam intr-o poveste lucrata de mana.",
+    "id": "26"
   }
 ]

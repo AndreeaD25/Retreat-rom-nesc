@@ -97,7 +97,6 @@ body {
   padding: 10px 5px;
   border: 2px solid var(--secondary-color);
   border-radius: 10px;
-  
 }
 
 .fa-solid.fa-tree.fa-bounce {
@@ -106,4 +105,11 @@ body {
 
 .fa-solid.fa-umbrella-beach.fa-bounce {
   color: #f3feb8;
+}
+
+a {
+  color: #ff6500;
+}
+a:hover {
+  color: #f4a261;
 }
