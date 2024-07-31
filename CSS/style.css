@@ -113,3 +113,7 @@ a {
 a:hover {
   color: #f4a261;
 }
+
+.w-200 {
+  width: 200px;
+}
