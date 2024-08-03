@@ -28,7 +28,7 @@ export async function addNewProduct(product) {
 }
 
 export async function updateProduct(product, productId) {
-  const response = await fetch(`${url}/${productId}`, {
+  const reponse = await fetch(`${url}/${productId}`, {
     method: "PUT",
     headers: {
       "Content-Type": "application/json",
@@ -36,7 +36,7 @@ export async function updateProduct(product, productId) {
     body: JSON.stringify(product),
   });
 
-  const editedProduct = await response.json();
+  const editedProduct = await reponse.json();
   return editedProduct;
 }
 
