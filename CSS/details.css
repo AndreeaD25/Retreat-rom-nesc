@@ -1,0 +1,186 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&family=Playwrite+DK+Uloopet:wght@100..400&display=swap");
+:root {
+  --primary-color: #d6efd8;
+  --dark-color: black;
+  --secondary-color: #508d4e;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--primary-color);
+
+  font-family: "Playwrite DK Uloopet", cursive;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+  background-image: url("images/green.jpg");
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.gap-10 {
+  gap: 10px;
+}
+
+.gap-20 {
+  gap: 10px;
+}
+
+.p-5 {
+  padding: 5px;
+}
+
+.bg-dark {
+  background-color: var(--secondary-color);
+}
+
+.gap-50 {
+  gap: 50px;
+}
+
+.p-50 {
+  padding: 50px;
+}
+
+.wrap {
+  /* gap: 50px; */
+  flex-wrap: wrap;
+}
+
+.navbar a,
+.navbar h3 {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-size: 20px;
+  color: #d6efd8;
+  font-style: italic;
+}
+
+.navbar h3 i {
+  padding-top: 10px;
+  font-size: 28x;
+}
+
+.logo {
+  font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+
+.product-card {
+  background-color: #d6efd8;
+  width: 200px;
+  text-align: center;
+  padding: 10px 5px;
+  border: 2px solid var(--secondary-color);
+  border-radius: 10px;
+}
+
+.fa-solid.fa-tree.fa-bounce {
+  color: #1a5319;
+}
+
+.fa-solid.fa-umbrella-beach.fa-bounce {
+  color: #f3feb8;
+}
+
+a {
+  color: black;
+}
+a:hover {
+  color: #f4a261;
+}
+
+.w-150 {
+  width: 150px;
+}
+
+.w-300 {
+  width: 300px;
+}
+
+.h-40 {
+  height: 40px;
+}
+
+.border-bottom {
+  border-bottom: 1px solid gray;
+}
+
+.add-to-cart {
+  color: #0a3a09;
+  border-radius: 4px;
+  background-color: #e0e5b6;
+  cursor: pointer;
+
+  box-shadow: 0 4px 8px rgba(199, 216, 199, 0.315);
+}
+
+.add-to-cart:hover {
+  color: black;
+}
+
+.filters {
+  padding-top: 50px;
+}
+
+.counties {
+  padding-left: 10px;
+  /* color: #1a5319; */
+}
+
+.badge {
+  border-radius: 10px;
+  width: 60px;
+  background-color: rgb(201, 221, 188);
+  padding: 10px 5px;
+}
+
+.w-150 {
+  width: 150px;
+}
+
+.county-filter {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.county {
+  color: black;
+  background-color: #0a3a09;
+}
+.categories {
+  padding-left: 10px;
+}
+
+.category-filter {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}

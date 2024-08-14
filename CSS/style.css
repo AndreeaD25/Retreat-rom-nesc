@@ -13,10 +13,12 @@
 
 body {
   background-color: var(--primary-color);
+
   font-family: "Playwrite DK Uloopet", cursive;
   font-optical-sizing: auto;
   /* font-weight: <weight>; */
   font-style: normal;
+  background-image: url("images/green.jpg");
 }
 
 .flex {
@@ -128,4 +130,57 @@ a:hover {
 
 .border-bottom {
   border-bottom: 1px solid gray;
+}
+
+.add-to-cart {
+  color: #0a3a09;
+  border-radius: 4px;
+  background-color: #e0e5b6;
+  cursor: pointer;
+
+  box-shadow: 0 4px 8px rgba(199, 216, 199, 0.315);
+}
+
+.add-to-cart:hover {
+  color: black;
+}
+
+.filters {
+  padding-top: 50px;
+}
+
+.counties {
+  padding-left: 10px;
+  /* color: #1a5319; */
+}
+
+.badge {
+  border-radius: 10px;
+  width: 60px;
+  background-color: rgb(201, 221, 188);
+  padding: 10px 5px;
+}
+
+.w-150 {
+  width: 150px;
+}
+
+.county-filter {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.county {
+  color: black;
+  background-color: #0a3a09;
+}
+.categories {
+  padding-left: 10px;
+}
+
+.category-filter {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
 }

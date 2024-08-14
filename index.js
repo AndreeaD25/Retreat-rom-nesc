@@ -3,6 +3,9 @@ import { mapProductToCard } from "./utils/layout.js";
 
 document.addEventListener("DOMContentLoaded", displayAllProducts);
 const mainContainer = document.querySelector(".main");
+// const countyFilterContainer = document.querySelector(".counties");
+// const filterByCategory = document.querySelector(".categories");
+// const colorFilterContainer = document.querySelector(".colors");
 
 async function displayAllProducts() {
   const products = await getAllProducts();
