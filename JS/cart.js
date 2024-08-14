@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "flex justify-between items-center w-300 border-bottom";
       const decreaseDisabled = product.quantity === 1 ? "disabled" : "";
       productCard.innerHTML = `
-      <img width="20px" src=${product.imageUrl} />
+      <img width="50px" src=${product.imageUrl} />
 				<div class="w-150 h-40 flex gap-20 justify-between items-center">
             	<span>${product.name}</span>
             	<div>
@@ -57,4 +57,9 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   updateCart();
+});
+
+document.getElementById("checkout").addEventListener("click", function () {
+  // Codul pentru finalizarea comenzii
+  alert("The payment for your reservation has been successfully registered!!");
 });

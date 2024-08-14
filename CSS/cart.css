@@ -253,3 +253,25 @@ a:hover {
 .w-150 {
   width: 150px;
 }
+
+.buttons {
+  display: flex;
+  flex-direction: column; /* Aliniază butoanele pe verticală */
+  align-items: center; /* Centrează butonul de checkout */
+  margin-top: 10px;
+}
+.btn {
+  background-color: #4b830b;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.btn:hover {
+  background-color: #7cb342;
+}
